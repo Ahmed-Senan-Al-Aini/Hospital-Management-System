@@ -7,6 +7,9 @@ A comprehensive system for managing daily operations in hospitals and medical ce
 ## 🚀 Key Features
 
 The system offers comprehensive coverage of the most important aspects of medical administration:
+### 1. Login
+-Email : ``` admin@hospital.com ```
+-Password  : ``` admin123 ```
 
 ### 1. Dashboard
 - Real-time statistics on daily prescriptions, pending cases, and inventory status.
