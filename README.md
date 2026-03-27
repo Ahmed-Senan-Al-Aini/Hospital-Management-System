@@ -11,19 +11,19 @@ The system offers comprehensive coverage of the most important aspects of medica
 - Email : ``` admin@hospital.com ```.
 - Password  : ``` admin123 ```.
 
-### 1. Dashboard
+### 2. Dashboard
 - Real-time statistics on daily prescriptions, pending cases, and inventory status.
 - Charts and quick alerts for medicines that are low in stock or nearing expiry.
 
-### 2. Patient Management
+### 3. Patient Management
 - Comprehensive patient data registration (national ID, date of birth, blood type, etc.).
 - Historical record for each patient, including previous visits and received prescriptions.
 
-### 3. Visits & Diagnosis Management
+### 4. Visits & Diagnosis Management
 - Registration of patient visits and documentation of medical diagnoses for each case.
 - Linking visits to issued prescriptions.
 
-### 4. Pharmacy & Pharmaceutical Inventory
+### 5. Pharmacy & Pharmaceutical Inventory
 - Complete management of medicines (add, edit, delete).
 - Tracking of inventory movement (add quantities, dispense, adjust).
 - Smart alert system for low stock and critical stock.
