@@ -52,7 +52,9 @@ class Router
         }
         error_log($controllerFile . "  fff");
         //error_log($controllerFile);
+
         require_once $controllerFile;
+
         //error_log($controllerFile);
 
         // إنشاء كائن الـ Controller
@@ -75,10 +77,11 @@ class Router
 
         // تحديد الـ Parameters
         $this->params = !empty($this->url) ? array_values($this->url) : [];
-
         // تنفيذ الـ Middleware (إذا كان الـ Controller يملك دالة middleware)
+        
         if (method_exists($this->controller, 'middleware')) {
             $middleware = $this->controller->middleware();
+         
 
             if (isset($middleware[$this->method])) {
                 $requiredRoles = $middleware[$this->method];
@@ -92,7 +95,7 @@ class Router
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             Middleware::requireCsrfToken();
         }
-
+        error_log("hhhh");
         call_user_func_array([$this->controller, $this->method], $this->params);
     }
 

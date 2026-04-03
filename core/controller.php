@@ -38,7 +38,7 @@ class Controller
 
     protected function redirect($url)
     {
-
+        error_log($url);
         header('Location:' . BASE_URL . $url);
         exit;
     }

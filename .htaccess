@@ -7,7 +7,7 @@ RewriteEngine On
 # منع الوصول المباشر للمجلدات الحساسة
 RewriteRule ^(config|core|controllers|models|storage|vendor)/ - [F,L]
 
-RewriteBase /project/pharmacy/
+RewriteBase /project/Hospital-Management-System/
 
 # إذا لم يكن الملف أو المجلد موجود فعلياً
 RewriteCond %{REQUEST_FILENAME} !-f

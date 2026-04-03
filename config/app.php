@@ -19,7 +19,8 @@ define('STORAGE_PATH', ROOT_PATH . 'storage' . DS);
 // مسارات أساسية
 define('PDF_PATH', STORAGE_PATH . 'pdf/');
 define('LOG_PATH', STORAGE_PATH . 'logs/');
-define('BASE_URL', 'http://localhost/project/pharmacy/');
+define('BASE_URL', 'http://localhost/project/Hospital-Management-System/');
+// define('BASE_URL', 'http://localhost/project/pharmacy/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('CSS_URL', PUBLIC_URL . 'css/');
 define('JS_URL', PUBLIC_URL . 'js/');
