@@ -69,10 +69,28 @@ class MedicineController extends Controller
 
     public function addStock($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
         // error_log("stock -ddd");
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             $this->redirect('medicine/list');
         }
+
+
+        $medicine = $this->medicineModel->find($id);
+
+        if (!$medicine) {
+            Session::flash('error', 'الدواء غير موجود');
+            $this->redirect('medicine/list');
+            return;
+        }
+
 
         $quantity = $_POST['quantity'] ?? 0;
         $expiryDate = $_POST['expiry_date'] ?? null;
@@ -94,17 +112,34 @@ class MedicineController extends Controller
     public function alerts()
     {
         $alerts = [
-            'sum'=>$this->medicineModel->getAllWithStock(),
+            'sum' => $this->medicineModel->getAllWithStock(),
             'low_stock' => $this->medicineModel->getLowStock(),
             'critical_stock' => $this->medicineModel->getCriticalStock(),
             'near_expiry' => $this->medicineModel->getNearExpiry()
         ];
-        $this->view('medicines.alerts', ['alerts'=>$alerts]);
+        $this->view('medicines.alerts', ['alerts' => $alerts]);
     }
 
     public function edit($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
+
         $medicine = $this->medicineModel->find($id);
+
+        if (!$medicine) {
+            Session::flash('error', 'الدواء غير موجود');
+            $this->redirect('medicine/list');
+            return;
+        }
+
+
         $medicine->current_stock = $this->medicineModel->getCurrentStock($id);
 
         if (!$medicine) {
@@ -115,8 +150,25 @@ class MedicineController extends Controller
 
     public function update($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             $this->redirect('medicines/list');
+        }
+
+
+        $medicine = $this->medicineModel->find($id);
+
+        if (!$medicine) {
+            Session::flash('error', 'الدواء غير موجود');
+            $this->redirect('medicine/list');
+            return;
         }
 
         $data = [
