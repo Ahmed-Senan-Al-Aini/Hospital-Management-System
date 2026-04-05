@@ -36,20 +36,44 @@ class PharmacyController extends Controller
 
     public function dispense($id)
     {
-        // ✅ التحقق من طريقة الطلب
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
+
+        $medicine = $this->medicineModel->find($id);
+
+        if (!$medicine) {
+            Session::flash('error', 'الدواء غير موجود');
+            $this->redirect('medicine/list');
+            return;
+        }
+
+        $headers = function_exists('getallheaders') ? getallheaders() : [];
+        $csrfToken = $headers['X-CSRF-TOKEN'] ?? $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
+
+        if (!CSRF::validate($csrfToken)) {
+            $this->json(['error' => 'رمز الأمان غير صالح'], 403);
+            return;
+        }
+
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             $this->json(['error' => 'طريقة طلب غير صحيحة'], 405);
             return;
         }
 
-        // ✅ التحقق من وجود الوصفة
+
         $prescription = $this->prescriptionModel->find($id);
         if (!$prescription) {
             $this->json(['error' => 'الوصفة غير موجودة'], 404);
             return;
         }
 
-        // ✅ التحقق من حالة الوصفة
+
         if ($prescription->status !== STATUS_PENDING) {
             $this->json(['error' => 'الوصفة تم صرفها مسبقاً'], 400);
             return;

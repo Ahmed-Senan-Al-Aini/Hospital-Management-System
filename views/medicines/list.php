@@ -22,7 +22,7 @@
             <?php endif; ?>
         </div>
     </div>
-    <?php $goodStockCount= count($medicines)- count($alerts['low_stock'])- count($alerts['critical_stock']);?>
+    <?php $goodStockCount = count($medicines) - count($alerts['low_stock']) - count($alerts['critical_stock']); ?>
 
     <!-- بطاقات الإحصائيات -->
     <div class="stats-grid">

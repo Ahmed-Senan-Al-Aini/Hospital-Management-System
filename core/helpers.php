@@ -108,3 +108,16 @@ function csrf_token()
 {
     return CSRF::getToken();
 }
+
+function validateId($id, $redirectUrl = null)
+{
+    if (!is_numeric($id) || $id <= 0) {
+        if ($redirectUrl) {
+            Session::flash('error', 'معرف غير صالح');
+            header('Location: ' . BASE_URL . $redirectUrl);
+            exit;
+        }
+        return false;
+    }
+    return (int)$id;
+}

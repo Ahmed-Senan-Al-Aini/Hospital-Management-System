@@ -10,15 +10,22 @@ class Medicine extends Model
      */
     public function getAllWithStock()
     {
-        $stmt = $this->pdo->query("
-            SELECT m.*,
-                   COALESCE(SUM(CASE WHEN it.type = 'add' THEN it.quantity ELSE 0 END), 0) -
-                   COALESCE(SUM(CASE WHEN it.type = 'remove' THEN it.quantity ELSE 0 END), 0) as current_stock
-            FROM medicines m
-            LEFT JOIN inventory_transactions it ON m.id = it.medicine_id
-            GROUP BY m.id
-            ORDER BY m.name
+        $stmt = $this->pdo->query("SELECT 
+    m.*,
+    COALESCE(SUM(CASE WHEN it.type = 'add' THEN it.quantity ELSE 0 END), 0) -
+    COALESCE(SUM(CASE WHEN it.type = 'remove' THEN it.quantity ELSE 0 END), 0) as current_stock
+FROM medicines m
+LEFT JOIN inventory_transactions it ON m.id = it.medicine_id
+GROUP BY m.id
         ");
+        //  SELECT m.*,
+        //                    COALESCE(SUM(CASE WHEN it.type = 'add' THEN it.quantity ELSE 0 END), 0) -
+        //                    COALESCE(SUM(CASE WHEN it.type = 'remove' THEN it.quantity ELSE 0 END), 0) as current_stock
+        //             FROM medicines m
+        //             LEFT JOIN inventory_transactions it ON m.id = it.medicine_id
+        //             GROUP BY m.id
+        //             ORDER BY m.name
+
         return $stmt->fetchAll();
     }
 
@@ -97,7 +104,7 @@ class Medicine extends Model
      */
     public function addStock($medicineId, $quantity, $expiryDate, $userId)
     {
-       // error_log("stock-dd");
+        // error_log("stock-dd");
         $stmt = $this->pdo->prepare("
             INSERT INTO inventory_transactions 
             (medicine_id, user_id, type, quantity, expiry_date, created_at) 
@@ -151,6 +158,4 @@ class Medicine extends Model
         $stmt->execute(['keyword' => $keyword]);
         return $stmt->fetchAll();
     }
-
-
 }

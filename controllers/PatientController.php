@@ -210,8 +210,16 @@ class PatientController extends Controller
     /**
      * عرض صفحة مريض - ✅ تم التصحيح (كانت views والآن view)
      */
+
     public function views($id)  // ✅ تغيير اسم الدالة من views إلى view
     {
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+        
+        $id = (int)$id;
+        
         $patient = $this->patientModel->getWithVisits($id);
 
         if (!$patient) {
@@ -219,6 +227,7 @@ class PatientController extends Controller
             $this->redirect('patient/list');
             return;
         }
+        
 
         // جلب الزيارات بشكل إضافي إذا لم تكن موجودة في getWithVisits
         if (!isset($patient->visits)) {
@@ -256,6 +265,14 @@ class PatientController extends Controller
      */
     public function edit($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
         $patient = $this->patientModel->find($id);
         if (!$patient) {
             Session::flash('error', 'المريض غير موجود');
@@ -269,6 +286,14 @@ class PatientController extends Controller
      */
     public function update($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             $this->redirect('patient/list');
         }

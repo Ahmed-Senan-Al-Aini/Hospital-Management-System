@@ -86,6 +86,14 @@ class PrescriptionController extends Controller
 
     public function views($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
         $prescription = $this->prescriptionModel->getWithDetails($id);
         if (!$prescription) {
             $this->redirect('prescriptions/list');
@@ -95,6 +103,14 @@ class PrescriptionController extends Controller
 
     public function print($id)
     {
+
+        if (!is_numeric($id) || $id <= 0) {
+            session::flash('error', 'معرف غير صالح');
+            $this->redirect('patient/list');
+        }
+
+        $id = (int)$id;
+
         $prescription = $this->prescriptionModel->getWithDetails($id);
         if (!$prescription) {
             $this->redirect('prescriptions/list');

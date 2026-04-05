@@ -45,8 +45,10 @@ class Middleware
 
     public static function requir_Any_role($roles)
     {
-        if (is_string($roles)) {
-            $roles = [$roles];
+        if (!is_array($roles) || empty($roles)) {
+            error_log("Middleware error: invald roles array");
+            self::forbidden('خطاء في الصلاحيات');
+            return;
         }
 
         self::requir_auth();
@@ -61,14 +63,14 @@ class Middleware
     {
         self::requir_auth();
         if (!Auth::hasAllRole($roles)) {
-            self::forbidden('ليس لديك الصلاحيات الكافية');   
+            self::forbidden('ليس لديك الصلاحيات الكافية');
         }
     }
 
     public static function requirePermission($permission)
     {
         self::requir_auth();
-        
+
         if (!Auth::can($permission)) {
             self::forbidden('ليس لديك الصلاحية لتنفيذ هذا الإجراء');
         }
@@ -85,17 +87,17 @@ class Middleware
     public static function requireCsrfToken()
     {
         $methods = ['POST', 'PUT', 'DELETE', 'PATCH'];
-        
+
         if (in_array($_SERVER['REQUEST_METHOD'], $methods)) {
             $token = $_POST['csrf_token'] ?? $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
-            
+
             if (!CSRF::validate($token)) {
                 if (self::isAjax()) {
                     self::jsonError('رمز CSRF غير صالح', 403);
                 }
-                
+
                 error_log("CSRF validation failed for IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'unknown'));
-                
+
                 header('HTTP/1.0 403 Forbidden');
                 die('خطأ في التحقق من الأمان (CSRF). يرجى تحديث الصفحة والمحاولة مرة أخرى.');
             }
@@ -110,9 +112,9 @@ class Middleware
         if (self::isAjax()) {
             self::jsonError($message, 403);
         }
-        
+
         header('HTTP/1.0 403 Forbidden');
-        
+
         if (file_exists(VIEWS_PATH . 'errors/403.php')) {
             require VIEWS_PATH . 'errors/403.php';
         } else {
@@ -183,8 +185,8 @@ class Middleware
      */
     private static function isAjax()
     {
-        return !empty($_SERVER['HTTP_X_REQUESTED_WITH']) && 
-               strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest';
+        return !empty($_SERVER['HTTP_X_REQUESTED_WITH']) &&
+            strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest';
     }
 
     /**

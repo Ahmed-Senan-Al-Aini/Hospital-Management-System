@@ -50,6 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
+
 // إضافة loader styles
 const style = document.createElement("style");
 style.textContent = `
@@ -104,34 +105,34 @@ style.textContent = `
 document.head.appendChild(style);
 
 
-document.addEventListener('click', function(e) {
-    if (e.target.classList.contains('quick-control')) {
-        e.preventDefault();
-        
-        const action = e.target.dataset.action;
-        const id = e.target.dataset.id;
-        
-        showLoading();
-        
-        fetch(BASE_URL + 'control/api', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                action: action,
-                id: id,
-                data: {}
-            })
-        })
-        .then(response => response.json())
-        .then(data => {
-            hideLoading();
-            if (data.success) {
-                showNotification(data.message, 'success');
-            } else {
-                showNotification('حدث خطأ: ' + data.error, 'error');
-            }
-        });
-    }
+document.addEventListener('click', function (e) {
+  if (e.target.classList.contains('quick-control')) {
+    e.preventDefault();
+
+    const action = e.target.dataset.action;
+    const id = e.target.dataset.id;
+
+    showLoading();
+
+    fetch(BASE_URL + 'control/api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        action: action,
+        id: id,
+        data: {}
+      })
+    })
+      .then(response => response.json())
+      .then(data => {
+        hideLoading();
+        if (data.success) {
+          showNotification(data.message, 'success');
+        } else {
+          showNotification('حدث خطأ: ' + data.error, 'error');
+        }
+      });
+  }
 });

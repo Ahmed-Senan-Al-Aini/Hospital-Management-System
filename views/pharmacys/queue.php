@@ -172,7 +172,8 @@
             fetch('<?php echo BASE_URL; ?>pharmacy/dispense/' + id, {
                     method: 'POST',
                     headers: {
-                        'X-Requested-With': 'XMLHttpRequest'
+                        'X-Requested-With': 'XMLHttpRequest',
+                        'X-CSRF-TOKEN': '<?php echo csrf_token() ?>'
                     }
                 })
                 .then(response => response.json())

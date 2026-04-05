@@ -38,3 +38,5 @@ Header set Referrer-Policy "strict-origin-when-cross-origin"
 <IfModule mode_deflate.c>
 AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json
 </IfModule>
+
+Header always append X-Frame-Options "DENY"
