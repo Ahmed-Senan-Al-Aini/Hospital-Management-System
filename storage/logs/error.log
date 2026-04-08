@@ -958,3 +958,1026 @@ Stack trace:
 [04-Apr-2026 21:25:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
 [04-Apr-2026 21:25:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
 [04-Apr-2026 21:25:49 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:15 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 01:03:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 01:03:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 01:03:15 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 01:03:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 01:03:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 01:03:15 Asia/Riyadh] login
+[06-Apr-2026 01:03:15 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:24 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 01:03:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 01:03:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 01:03:24 Asia/Riyadh] login
+[06-Apr-2026 01:03:24 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:24 Asia/Riyadh] dashboard
+[06-Apr-2026 01:03:24 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 01:03:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 01:03:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 01:03:24 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:36 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 01:03:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 01:03:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 01:03:36 Asia/Riyadh] list
+[06-Apr-2026 01:03:36 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:44 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:03:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:03:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:03:44 Asia/Riyadh] create
+[06-Apr-2026 01:03:44 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:48 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 01:03:48 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 01:03:48 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 01:03:48 Asia/Riyadh] views
+[06-Apr-2026 01:03:48 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:51 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 01:03:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 01:03:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 01:03:51 Asia/Riyadh] list
+[06-Apr-2026 01:03:51 Asia/Riyadh] hhhh
+[06-Apr-2026 01:03:59 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:03:59 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:03:59 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:03:59 Asia/Riyadh] create
+[06-Apr-2026 01:03:59 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:11 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:04:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:04:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:04:11 Asia/Riyadh] list
+[06-Apr-2026 01:04:11 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:12 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:04:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:04:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:04:12 Asia/Riyadh] create
+[06-Apr-2026 01:04:12 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:14 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:04:14 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:04:14 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:04:14 Asia/Riyadh] list
+[06-Apr-2026 01:04:14 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:24 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 01:04:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 01:04:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 01:04:24 Asia/Riyadh] list
+[06-Apr-2026 01:04:24 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:33 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:04:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:04:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:04:33 Asia/Riyadh] list
+[06-Apr-2026 01:04:33 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:41 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:04:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:04:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:04:41 Asia/Riyadh] queue
+[06-Apr-2026 01:04:41 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:45 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:04:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:04:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:04:45 Asia/Riyadh] create
+[06-Apr-2026 01:04:45 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:51 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:04:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:04:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:04:51 Asia/Riyadh] store
+[06-Apr-2026 01:04:51 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:51 Asia/Riyadh] prescription/views/27
+[06-Apr-2026 01:04:51 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:04:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:04:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:04:51 Asia/Riyadh] views
+[06-Apr-2026 01:04:51 Asia/Riyadh] hhhh
+[06-Apr-2026 01:04:56 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:04:56 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:04:56 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:04:56 Asia/Riyadh] queue
+[06-Apr-2026 01:04:56 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:00 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:05:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:05:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:05:00 Asia/Riyadh] create
+[06-Apr-2026 01:05:00 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:17 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:05:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:05:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:05:17 Asia/Riyadh] store
+[06-Apr-2026 01:05:17 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:17 Asia/Riyadh] prescription/views/28
+[06-Apr-2026 01:05:17 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:05:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:05:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:05:17 Asia/Riyadh] views
+[06-Apr-2026 01:05:17 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:21 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:05:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:05:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:05:21 Asia/Riyadh] queue
+[06-Apr-2026 01:05:21 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:29 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:05:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:05:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:05:29 Asia/Riyadh] alerts
+[06-Apr-2026 01:05:29 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:35 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:35 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:46 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:46 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:47 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:47 Asia/Riyadh] consumption
+[06-Apr-2026 01:05:47 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:52 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:52 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:52 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:52 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:55 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:55 Asia/Riyadh] inventory
+[06-Apr-2026 01:05:55 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:57 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:57 Asia/Riyadh] hhhh
+[06-Apr-2026 01:05:59 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:05:59 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:05:59 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:05:59 Asia/Riyadh] prescriptions
+[06-Apr-2026 01:05:59 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:05 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:05 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:05 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:05 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:06 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:06 Asia/Riyadh] movements
+[06-Apr-2026 01:06:06 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:21 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:21 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:23 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:23 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:23 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:23 Asia/Riyadh] expiry
+[06-Apr-2026 01:06:23 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:23 Asia/Riyadh] PHP Warning:  Undefined property: stdClass::$id in C:\xampp\htdocs\project\Hospital-Management-System\views\reports\expiry.php on line 120
+[06-Apr-2026 01:06:28 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:28 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:28 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:28 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:30 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:30 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:30 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:30 Asia/Riyadh] lowStock
+[06-Apr-2026 01:06:30 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:35 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:35 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:37 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 01:06:37 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 01:06:37 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 01:06:37 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:42 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:42 Asia/Riyadh] movements
+[06-Apr-2026 01:06:42 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:45 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 01:06:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 01:06:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 01:06:45 Asia/Riyadh] hhhh
+[06-Apr-2026 01:06:48 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:06:48 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:06:48 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:06:48 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportsController.php  file
+[06-Apr-2026 01:07:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportsController.php  exit
+[06-Apr-2026 01:07:10 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 01:07:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 01:07:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 01:07:10 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:15 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 01:07:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 01:07:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 01:07:15 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:20 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:07:20 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:07:20 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:07:20 Asia/Riyadh] alerts
+[06-Apr-2026 01:07:20 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:21 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:07:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:07:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:07:21 Asia/Riyadh] queue
+[06-Apr-2026 01:07:21 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:22 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:07:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:07:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:07:23 Asia/Riyadh] dispense
+[06-Apr-2026 01:07:23 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:23 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:07:23 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:07:23 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:07:23 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:07:23 Asia/Riyadh] list
+[06-Apr-2026 01:07:23 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:28 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:07:28 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:07:28 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:07:29 Asia/Riyadh] queue
+[06-Apr-2026 01:07:29 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:32 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:07:32 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:07:32 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:07:32 Asia/Riyadh] dispense
+[06-Apr-2026 01:07:32 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:32 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:07:32 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:07:32 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:07:32 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:07:32 Asia/Riyadh] list
+[06-Apr-2026 01:07:32 Asia/Riyadh] hhhh
+[06-Apr-2026 01:07:34 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:07:34 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:07:34 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:07:34 Asia/Riyadh] queue
+[06-Apr-2026 01:07:34 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:44 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:08:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:08:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:08:45 Asia/Riyadh] dispense
+[06-Apr-2026 01:08:45 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:45 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:08:45 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:08:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:08:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:08:45 Asia/Riyadh] list
+[06-Apr-2026 01:08:45 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:47 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:08:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:08:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:08:47 Asia/Riyadh] queue
+[06-Apr-2026 01:08:47 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:50 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:08:50 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:08:50 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:08:50 Asia/Riyadh] views
+[06-Apr-2026 01:08:50 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:55 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:08:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:08:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:08:55 Asia/Riyadh] list
+[06-Apr-2026 01:08:55 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:57 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:08:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:08:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:08:57 Asia/Riyadh] dispense
+[06-Apr-2026 01:08:57 Asia/Riyadh] hhhh
+[06-Apr-2026 01:08:57 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:08:57 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:08:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:08:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:08:57 Asia/Riyadh] list
+[06-Apr-2026 01:08:57 Asia/Riyadh] hhhh
+[06-Apr-2026 01:09:00 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:09:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:09:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:09:00 Asia/Riyadh] dispense
+[06-Apr-2026 01:09:00 Asia/Riyadh] hhhh
+[06-Apr-2026 01:09:00 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:09:00 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:09:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:09:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:09:00 Asia/Riyadh] list
+[06-Apr-2026 01:09:00 Asia/Riyadh] hhhh
+[06-Apr-2026 01:09:18 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:09:18 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:09:18 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:09:18 Asia/Riyadh] list
+[06-Apr-2026 01:09:18 Asia/Riyadh] hhhh
+[06-Apr-2026 01:09:21 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:09:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:09:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:09:21 Asia/Riyadh] dispense
+[06-Apr-2026 01:09:21 Asia/Riyadh] hhhh
+[06-Apr-2026 01:09:21 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:09:21 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:09:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:09:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:09:21 Asia/Riyadh] list
+[06-Apr-2026 01:09:21 Asia/Riyadh] hhhh
+[06-Apr-2026 01:12:10 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:12:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:12:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:12:10 Asia/Riyadh] list
+[06-Apr-2026 01:12:12 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:12:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:12:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:12:12 Asia/Riyadh] queue
+[06-Apr-2026 01:12:18 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:12:18 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:12:18 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:12:18 Asia/Riyadh] queue
+[06-Apr-2026 01:13:34 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:13:34 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:13:34 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:13:34 Asia/Riyadh] queue
+[06-Apr-2026 01:13:38 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:13:38 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:13:38 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:13:38 Asia/Riyadh] dispense
+[06-Apr-2026 01:13:38 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:13:38 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:13:38 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:13:38 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:13:38 Asia/Riyadh] list
+[06-Apr-2026 01:13:40 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:13:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:13:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:13:41 Asia/Riyadh] queue
+[06-Apr-2026 01:14:10 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:14:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:14:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:14:10 Asia/Riyadh] dispense
+[06-Apr-2026 01:14:10 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:14:10 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:14:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:14:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:14:10 Asia/Riyadh] list
+[06-Apr-2026 01:14:13 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:14:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:14:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:14:13 Asia/Riyadh] queue
+[06-Apr-2026 01:16:24 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:16:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:16:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:16:24 Asia/Riyadh] queue
+[06-Apr-2026 01:16:26 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:16:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:16:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:16:26 Asia/Riyadh] dispense
+[06-Apr-2026 01:16:26 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:16:26 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:16:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:16:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:16:26 Asia/Riyadh] list
+[06-Apr-2026 01:16:31 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:16:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:16:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:16:31 Asia/Riyadh] queue
+[06-Apr-2026 01:16:36 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 01:16:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 01:16:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 01:16:36 Asia/Riyadh] list
+[06-Apr-2026 01:16:37 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:16:37 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:16:37 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:16:37 Asia/Riyadh] list
+[06-Apr-2026 01:16:40 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:16:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:16:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:16:40 Asia/Riyadh] dispense
+[06-Apr-2026 01:16:40 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:16:40 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:16:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:16:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:16:40 Asia/Riyadh] list
+[06-Apr-2026 01:17:24 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:17:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:17:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:17:24 Asia/Riyadh] list
+[06-Apr-2026 01:17:27 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:17:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:17:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:17:27 Asia/Riyadh] dispense
+[06-Apr-2026 01:17:27 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:17:27 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:17:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:17:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:17:27 Asia/Riyadh] list
+[06-Apr-2026 01:17:44 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:17:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:17:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:17:44 Asia/Riyadh] list
+[06-Apr-2026 01:17:46 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:17:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:17:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:17:46 Asia/Riyadh] dispense
+[06-Apr-2026 01:17:46 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:17:46 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:17:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:17:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:17:46 Asia/Riyadh] list
+[06-Apr-2026 01:18:33 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:18:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:18:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:18:33 Asia/Riyadh] list
+[06-Apr-2026 01:18:35 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:18:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:18:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:18:35 Asia/Riyadh] dispense
+[06-Apr-2026 01:18:35 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:18:35 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:18:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:18:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:18:35 Asia/Riyadh] list
+[06-Apr-2026 01:18:42 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:18:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:18:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:18:42 Asia/Riyadh] list
+[06-Apr-2026 01:18:45 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:18:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:18:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:18:45 Asia/Riyadh] dispense
+[06-Apr-2026 01:18:45 Asia/Riyadh]  disp -in 
+[06-Apr-2026 01:18:45 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:18:45 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:18:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:18:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:18:45 Asia/Riyadh] list
+[06-Apr-2026 01:19:40 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:19:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:19:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:19:40 Asia/Riyadh] list
+[06-Apr-2026 01:19:42 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:19:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:19:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:19:42 Asia/Riyadh] dispense
+[06-Apr-2026 01:19:42 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:19:42 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:19:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:19:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:19:42 Asia/Riyadh] list
+[06-Apr-2026 01:20:10 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:20:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:20:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:20:10 Asia/Riyadh] list
+[06-Apr-2026 01:20:12 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:20:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:20:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:20:12 Asia/Riyadh] dispense
+[06-Apr-2026 01:20:12 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:20:12 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:20:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:20:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:20:12 Asia/Riyadh] list
+[06-Apr-2026 01:21:21 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:21:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:21:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:21:21 Asia/Riyadh] list
+[06-Apr-2026 01:21:22 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:21:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:21:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:21:22 Asia/Riyadh] queue
+[06-Apr-2026 01:21:24 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:21:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:21:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:21:24 Asia/Riyadh] dispense
+[06-Apr-2026 01:21:24 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:21:24 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:21:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:21:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:21:24 Asia/Riyadh] list
+[06-Apr-2026 01:21:27 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:21:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:21:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:21:27 Asia/Riyadh] queue
+[06-Apr-2026 01:21:39 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:21:39 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:21:39 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:21:39 Asia/Riyadh] list
+[06-Apr-2026 01:21:41 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:21:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:21:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:21:41 Asia/Riyadh] views
+[06-Apr-2026 01:21:43 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:21:43 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:21:43 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:21:43 Asia/Riyadh] list
+[06-Apr-2026 01:21:44 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:21:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:21:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:21:44 Asia/Riyadh] views
+[06-Apr-2026 01:21:46 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:21:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:21:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:21:46 Asia/Riyadh] dispense
+[06-Apr-2026 01:21:46 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:21:46 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:21:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:21:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:21:46 Asia/Riyadh] list
+[06-Apr-2026 01:21:48 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:21:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:21:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:21:49 Asia/Riyadh] dispense
+[06-Apr-2026 01:21:49 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:21:49 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:21:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:21:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:21:49 Asia/Riyadh] list
+[06-Apr-2026 01:22:04 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 01:22:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 01:22:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 01:22:04 Asia/Riyadh] list
+[06-Apr-2026 01:22:06 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 01:22:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 01:22:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 01:22:06 Asia/Riyadh] create
+[06-Apr-2026 01:22:07 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:22:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:22:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:22:07 Asia/Riyadh] list
+[06-Apr-2026 01:22:15 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:22:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:22:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:22:15 Asia/Riyadh] list
+[06-Apr-2026 01:22:16 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:22:16 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:22:16 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:22:16 Asia/Riyadh] queue
+[06-Apr-2026 01:22:20 Asia/Riyadh] ControlController  sid
+[06-Apr-2026 01:22:20 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ControlController.php  file
+[06-Apr-2026 01:22:20 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ControlController.php  fff
+[06-Apr-2026 01:22:20 Asia/Riyadh] api
+[06-Apr-2026 01:22:20 Asia/Riyadh] CSRF validation failed for IP: ::1
+[06-Apr-2026 01:22:24 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:22:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:22:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:22:24 Asia/Riyadh] queue
+[06-Apr-2026 01:24:00 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:24:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:24:00 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:24:00 Asia/Riyadh] queue
+[06-Apr-2026 01:24:02 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:24:02 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:24:02 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:24:02 Asia/Riyadh] dispense
+[06-Apr-2026 01:24:02 Asia/Riyadh] medicine/list
+[06-Apr-2026 01:24:02 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 01:24:02 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 01:24:02 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 01:24:03 Asia/Riyadh] list
+[06-Apr-2026 01:24:17 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 01:24:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 01:24:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 01:24:17 Asia/Riyadh] queue
+[06-Apr-2026 01:24:19 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 01:24:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 01:24:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 01:24:19 Asia/Riyadh] list
+[06-Apr-2026 18:32:11 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:32:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:32:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:32:11 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:32:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:32:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:32:11 Asia/Riyadh] login
+[06-Apr-2026 18:32:23 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:32:23 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:32:23 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:32:23 Asia/Riyadh] login
+[06-Apr-2026 18:32:24 Asia/Riyadh] dashboard
+[06-Apr-2026 18:32:24 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:32:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:32:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:32:35 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 18:32:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 18:32:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 18:32:35 Asia/Riyadh] list
+[06-Apr-2026 18:32:45 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 18:32:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 18:32:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 18:32:45 Asia/Riyadh] dispense
+[06-Apr-2026 18:32:45 Asia/Riyadh] medicine/list
+[06-Apr-2026 18:32:45 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:32:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:32:45 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:32:45 Asia/Riyadh] list
+[06-Apr-2026 18:32:49 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:32:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:32:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:32:49 Asia/Riyadh] alerts
+[06-Apr-2026 18:32:51 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 18:32:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 18:32:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 18:32:51 Asia/Riyadh] queue
+[06-Apr-2026 18:32:53 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 18:32:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 18:32:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 18:32:53 Asia/Riyadh] dispense
+[06-Apr-2026 18:32:53 Asia/Riyadh] medicine/list
+[06-Apr-2026 18:32:53 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:32:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:32:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:32:53 Asia/Riyadh] list
+[06-Apr-2026 18:32:55 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 18:32:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 18:32:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 18:32:55 Asia/Riyadh] queue
+[06-Apr-2026 18:32:56 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:32:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:32:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:32:57 Asia/Riyadh] list
+[06-Apr-2026 18:33:01 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:33:01 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:33:01 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:33:01 Asia/Riyadh] views
+[06-Apr-2026 18:33:07 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 18:33:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 18:33:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 18:33:07 Asia/Riyadh] create
+[06-Apr-2026 18:33:13 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 18:33:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 18:33:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 18:33:13 Asia/Riyadh] store
+[06-Apr-2026 18:33:13 Asia/Riyadh] patient/views/9
+[06-Apr-2026 18:33:13 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:33:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:33:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:33:13 Asia/Riyadh] views
+[06-Apr-2026 18:33:27 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 18:33:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 18:33:27 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 18:33:27 Asia/Riyadh] create
+[06-Apr-2026 18:33:35 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 18:33:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 18:33:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 18:33:35 Asia/Riyadh] store
+[06-Apr-2026 18:33:35 Asia/Riyadh] patient/views/9
+[06-Apr-2026 18:33:35 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:33:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:33:35 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:33:35 Asia/Riyadh] views
+[06-Apr-2026 18:33:40 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 18:33:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 18:33:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 18:33:40 Asia/Riyadh] list
+[06-Apr-2026 18:33:47 Asia/Riyadh] VisitController  sid
+[06-Apr-2026 18:33:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  file
+[06-Apr-2026 18:33:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\VisitController.php  fff
+[06-Apr-2026 18:33:47 Asia/Riyadh] views
+[06-Apr-2026 18:33:55 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:33:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:33:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:33:55 Asia/Riyadh] views
+[06-Apr-2026 18:33:58 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:33:58 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:33:58 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:33:58 Asia/Riyadh] list
+[06-Apr-2026 18:34:01 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:34:01 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:34:01 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:34:01 Asia/Riyadh] create
+[06-Apr-2026 18:34:22 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:34:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:34:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:34:22 Asia/Riyadh] store
+[06-Apr-2026 18:34:22 Asia/Riyadh] patient/list
+[06-Apr-2026 18:34:22 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:34:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:34:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:34:22 Asia/Riyadh] list
+[06-Apr-2026 18:34:38 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:34:38 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:34:38 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:34:38 Asia/Riyadh] alerts
+[06-Apr-2026 18:34:42 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:34:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:34:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:34:42 Asia/Riyadh] list
+[06-Apr-2026 18:34:54 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:34:54 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:34:54 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:34:54 Asia/Riyadh] alerts
+[06-Apr-2026 18:34:55 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:34:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:34:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:34:55 Asia/Riyadh] list
+[06-Apr-2026 18:35:03 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:03 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:03 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:03 Asia/Riyadh] addStock
+[06-Apr-2026 18:35:03 Asia/Riyadh] medicine/list
+[06-Apr-2026 18:35:03 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:03 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:03 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:03 Asia/Riyadh] list
+[06-Apr-2026 18:35:09 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:09 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:09 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:09 Asia/Riyadh] alerts
+[06-Apr-2026 18:35:17 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:17 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:17 Asia/Riyadh] list
+[06-Apr-2026 18:35:21 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 18:35:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 18:35:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 18:35:21 Asia/Riyadh] list
+[06-Apr-2026 18:35:26 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:26 Asia/Riyadh] list
+[06-Apr-2026 18:35:31 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:31 Asia/Riyadh] edit
+[06-Apr-2026 18:35:40 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:35:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:35:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:35:40 Asia/Riyadh] list
+[06-Apr-2026 18:35:42 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:35:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:35:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:35:42 Asia/Riyadh] logout
+[06-Apr-2026 18:35:42 Asia/Riyadh] auth/login
+[06-Apr-2026 18:35:42 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:35:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:35:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:35:42 Asia/Riyadh] login
+[06-Apr-2026 18:35:46 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:35:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:35:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:35:46 Asia/Riyadh] login
+[06-Apr-2026 18:35:47 Asia/Riyadh] dashboard
+[06-Apr-2026 18:35:47 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:35:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:35:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:35:57 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:35:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:35:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:35:57 Asia/Riyadh] views
+[06-Apr-2026 18:36:15 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:36:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:36:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:36:15 Asia/Riyadh] create
+[06-Apr-2026 18:36:19 Asia/Riyadh] PatientController  sid
+[06-Apr-2026 18:36:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  file
+[06-Apr-2026 18:36:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PatientController.php  fff
+[06-Apr-2026 18:36:19 Asia/Riyadh] views
+[06-Apr-2026 18:36:22 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:36:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:36:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:36:22 Asia/Riyadh] alerts
+[06-Apr-2026 18:36:26 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:36:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:36:26 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:36:26 Asia/Riyadh] list
+[06-Apr-2026 18:36:29 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:36:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:36:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:36:29 Asia/Riyadh] edit
+[06-Apr-2026 18:36:31 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:36:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:36:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:36:31 Asia/Riyadh] list
+[06-Apr-2026 18:36:33 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:36:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:36:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:36:37 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 18:36:37 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 18:36:37 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 18:36:37 Asia/Riyadh] movements
+[06-Apr-2026 18:36:43 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:36:43 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:36:43 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:36:51 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 18:36:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 18:36:51 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 18:36:55 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:36:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:36:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:37:06 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 18:37:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 18:37:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 18:37:06 Asia/Riyadh] queue
+[06-Apr-2026 18:37:08 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 18:37:08 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 18:37:08 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 18:37:08 Asia/Riyadh] views
+[06-Apr-2026 18:37:11 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 18:37:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 18:37:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 18:37:11 Asia/Riyadh] list
+[06-Apr-2026 18:50:19 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:50:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:50:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:50:34 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:50:34 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:50:34 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:50:49 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:50:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:50:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:50:49 Asia/Riyadh] logout
+[06-Apr-2026 18:50:49 Asia/Riyadh] auth/login
+[06-Apr-2026 18:50:49 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:50:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:50:49 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:50:49 Asia/Riyadh] login
+[06-Apr-2026 18:50:53 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:50:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:50:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:50:53 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:50:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:50:53 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:50:53 Asia/Riyadh] login
+[06-Apr-2026 18:51:06 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:51:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:51:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:51:06 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:51:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:51:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:51:06 Asia/Riyadh] login
+[06-Apr-2026 18:52:36 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:52:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:52:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:52:36 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:52:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:52:36 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:52:36 Asia/Riyadh] login
+[06-Apr-2026 18:52:40 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:52:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:52:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:52:40 Asia/Riyadh] login
+[06-Apr-2026 18:52:40 Asia/Riyadh] dashboard
+[06-Apr-2026 18:52:40 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:52:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:52:40 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:55:02 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:55:02 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:55:02 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:55:04 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:55:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:55:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:55:04 Asia/Riyadh] login
+[06-Apr-2026 18:55:04 Asia/Riyadh] dashboard
+[06-Apr-2026 18:55:04 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:55:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:55:04 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:55:11 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:55:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:55:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:55:11 Asia/Riyadh] logout
+[06-Apr-2026 18:55:11 Asia/Riyadh] auth/login
+[06-Apr-2026 18:55:11 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:55:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:55:11 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:55:11 Asia/Riyadh] login
+[06-Apr-2026 18:55:13 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:55:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:55:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:55:13 Asia/Riyadh] login
+[06-Apr-2026 18:55:13 Asia/Riyadh] dashboard
+[06-Apr-2026 18:55:13 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:55:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:55:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:56:12 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:56:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:56:12 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:56:31 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:56:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:56:31 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 18:57:13 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 18:57:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 18:57:13 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 18:57:13 Asia/Riyadh] alerts
+[06-Apr-2026 18:57:15 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:57:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:57:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:57:15 Asia/Riyadh] logout
+[06-Apr-2026 18:57:15 Asia/Riyadh] auth/login
+[06-Apr-2026 18:57:15 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:57:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:57:15 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:57:15 Asia/Riyadh] login
+[06-Apr-2026 18:59:28 Asia/Riyadh] AuthController  sid
+[06-Apr-2026 18:59:28 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  file
+[06-Apr-2026 18:59:28 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\AuthController.php  fff
+[06-Apr-2026 18:59:28 Asia/Riyadh] login
+[06-Apr-2026 18:59:29 Asia/Riyadh] dashboard
+[06-Apr-2026 18:59:29 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 18:59:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 18:59:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 19:02:06 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 19:02:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 19:02:06 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 19:02:06 Asia/Riyadh] create
+[06-Apr-2026 19:02:21 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 19:02:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 19:02:21 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 19:02:21 Asia/Riyadh] list
+[06-Apr-2026 19:02:24 Asia/Riyadh] PharmacyController  sid
+[06-Apr-2026 19:02:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  file
+[06-Apr-2026 19:02:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PharmacyController.php  fff
+[06-Apr-2026 19:02:24 Asia/Riyadh] dispense
+[06-Apr-2026 19:02:24 Asia/Riyadh] medicine/list
+[06-Apr-2026 19:02:24 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:02:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:02:24 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:02:24 Asia/Riyadh] list
+[06-Apr-2026 19:02:25 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 19:02:25 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 19:02:25 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 19:02:25 Asia/Riyadh] print
+[06-Apr-2026 19:02:57 Asia/Riyadh] DashboardController  sid
+[06-Apr-2026 19:02:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  file
+[06-Apr-2026 19:02:57 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\DashboardController.php  fff
+[06-Apr-2026 19:03:16 Asia/Riyadh] PrescriptionController  sid
+[06-Apr-2026 19:03:16 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  file
+[06-Apr-2026 19:03:16 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\PrescriptionController.php  fff
+[06-Apr-2026 19:03:17 Asia/Riyadh] list
+[06-Apr-2026 19:03:22 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:03:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:03:22 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:03:22 Asia/Riyadh] alerts
+[06-Apr-2026 19:03:47 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:03:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:03:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:03:47 Asia/Riyadh] list
+[06-Apr-2026 19:03:52 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:03:52 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:03:52 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:03:52 Asia/Riyadh] alerts
+[06-Apr-2026 19:03:55 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:03:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:03:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:03:55 Asia/Riyadh] list
+[06-Apr-2026 19:04:07 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:07 Asia/Riyadh] addStock
+[06-Apr-2026 19:04:07 Asia/Riyadh] medicine/list
+[06-Apr-2026 19:04:07 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:07 Asia/Riyadh] list
+[06-Apr-2026 19:04:10 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:10 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:10 Asia/Riyadh] alerts
+[06-Apr-2026 19:04:19 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:19 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:19 Asia/Riyadh] list
+[06-Apr-2026 19:04:41 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:41 Asia/Riyadh] addStock
+[06-Apr-2026 19:04:41 Asia/Riyadh] medicine/list
+[06-Apr-2026 19:04:41 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:41 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:41 Asia/Riyadh] list
+[06-Apr-2026 19:04:44 Asia/Riyadh] ReportController  sid
+[06-Apr-2026 19:04:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  file
+[06-Apr-2026 19:04:44 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\ReportController.php  fff
+[06-Apr-2026 19:04:46 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:46 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:46 Asia/Riyadh] alerts
+[06-Apr-2026 19:04:55 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:04:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:04:55 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:04:55 Asia/Riyadh] list
+[06-Apr-2026 19:05:09 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:09 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:09 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:09 Asia/Riyadh] alerts
+[06-Apr-2026 19:05:16 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:16 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:16 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:16 Asia/Riyadh] list
+[06-Apr-2026 19:05:29 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:29 Asia/Riyadh] addStock
+[06-Apr-2026 19:05:29 Asia/Riyadh] medicine/list
+[06-Apr-2026 19:05:29 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:29 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:29 Asia/Riyadh] list
+[06-Apr-2026 19:05:33 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:33 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:33 Asia/Riyadh] alerts
+[06-Apr-2026 19:05:42 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:42 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:42 Asia/Riyadh] list
+[06-Apr-2026 19:05:47 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:05:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:05:47 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:05:48 Asia/Riyadh] alerts
+[06-Apr-2026 19:06:07 Asia/Riyadh] MedicineController  sid
+[06-Apr-2026 19:06:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  file
+[06-Apr-2026 19:06:07 Asia/Riyadh] C:\xampp\htdocs\project\Hospital-Management-System\controllers\MedicineController.php  fff
+[06-Apr-2026 19:06:07 Asia/Riyadh] list

@@ -97,7 +97,7 @@ class Router
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             Middleware::requireCsrfToken();
         }
-        error_log("hhhh");
+        // error_log("hhhh");
         call_user_func_array([$this->controller, $this->method], $this->params);
     }
 

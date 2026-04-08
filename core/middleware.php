@@ -61,6 +61,7 @@ class Middleware
 
     public static function requir_all_role($roles)
     {
+        error_log(" hkkjl ahmed -in ");
         self::requir_auth();
         if (!Auth::hasAllRole($roles)) {
             self::forbidden('ليس لديك الصلاحيات الكافية');
@@ -72,6 +73,7 @@ class Middleware
         self::requir_auth();
 
         if (!Auth::can($permission)) {
+            error_log(" hkkjl ahmed -in ");
             self::forbidden('ليس لديك الصلاحية لتنفيذ هذا الإجراء');
         }
     }
@@ -80,6 +82,7 @@ class Middleware
     {
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             self::jsonError('طريقة طلب غير صحيحة', 405);
+            error_log(" hkkjl ahmed -in ");
         }
     }
 

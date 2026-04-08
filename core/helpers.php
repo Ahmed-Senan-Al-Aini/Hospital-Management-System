@@ -1,9 +1,6 @@
 <?php
 // core/helpers.php
 
-/**
- * عرض الوقت المنقضي بشكل نصي
- */
 function time_elapsed_string($datetime, $full = false)
 {
     if (empty($datetime)) {
@@ -51,17 +48,13 @@ function time_elapsed_string($datetime, $full = false)
     }
 }
 
-/**
- * عرض إشعار في الجلسة
- */
+
 function set_flash($key, $message)
 {
     $_SESSION['flash'][$key] = $message;
 }
 
-/**
- * الحصول على إشعار وحذفه
- */
+
 function get_flash($key)
 {
     if (isset($_SESSION['flash'][$key])) {
@@ -72,9 +65,7 @@ function get_flash($key)
     return null;
 }
 
-/**
- * التحقق من وجود إشعار
- */
+
 function has_flash($key)
 {
     return isset($_SESSION['flash'][$key]);

@@ -36,6 +36,7 @@ class PharmacyController extends Controller
 
     public function dispense($id)
     {
+      
 
         if (!is_numeric($id) || $id <= 0) {
             session::flash('error', 'معرف غير صالح');
@@ -55,7 +56,7 @@ class PharmacyController extends Controller
 
         $headers = function_exists('getallheaders') ? getallheaders() : [];
         $csrfToken = $headers['X-CSRF-TOKEN'] ?? $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
-
+        error_log(" disp -in ");
         if (!CSRF::validate($csrfToken)) {
             $this->json(['error' => 'رمز الأمان غير صالح'], 403);
             return;
@@ -97,6 +98,7 @@ class PharmacyController extends Controller
                 $errors[] = "الدواء {$medicineName} غير متوفر بالكمية المطلوبة (المطلوب: {$item->quantity}, المتوفر: $currentStock)";
             }
         }
+    
 
         if (!empty($errors)) {
             $this->json(['error' => implode('\n', $errors)], 400);
@@ -122,6 +124,7 @@ class PharmacyController extends Controller
                     throw new Exception("فشل خصم المخزون للدواء ID: {$item->medicine_id}");
                 }
             }
+            
 
             // ✅ تحديث حالة الوصفة
             $updated = $this->prescriptionModel->update($id, [
