@@ -148,9 +148,81 @@ Hospital-Management-System/
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-Coming soon: Dashboard, Patient Management, Pharmacy Inventory, Prescriptions
+### 🖥️ Dashboard
+> Real-time statistics, charts, low-stock alerts, and expiry notifications at a glance.
+
+![Dashboard](assets/assets/dashboard.png)
+
+---
+
+### 🗓️ Visits
+> Manage patient visits, diagnoses, and link them directly to prescriptions.
+
+![Visit List](assets/assets/visit_list.png)
+
+---
+
+### 💊 Pharmacy & Inventory
+
+#### Medicine List
+> Full CRUD for the pharmacy inventory with stock tracking.
+
+![Medicine List](assets/assets/medicine_list.png)
+
+#### Medicine Alerts
+> Instant notifications for low-stock and expiry warnings.
+
+![Medicine Alerts](assets/assets/medicine_alrets.png)
+
+#### Pharmacy Queue
+> Manage the dispensing queue in real time.
+
+![Pharmacy Queue](assets/assets/pharmacy_queue.png)
+
+---
+
+### 📋 Prescriptions
+
+#### Create Prescription
+> Doctors create electronic prescriptions with auto-linked medications.
+
+![Create Prescription](assets/assets/prescription_create.png)
+
+#### Prescription List
+> Track all prescriptions with statuses: Pending / Dispensed / Cancelled.
+
+![Prescription List](assets/assets/prescription_list.png)
+
+---
+
+### 📊 Reports
+
+#### Reports Overview
+> Central hub for all analytics and reporting modules.
+
+![Reports](assets/assets/reports.png)
+
+#### Medicine Consumption Report
+> Monitor which medications are consumed the most over any period.
+
+![Consumption Report](assets/assets/report_consumption.png)
+
+#### Expiry Report
+> Identify medicines approaching or past their expiry dates.
+
+![Expiry Report](assets/assets/report_expiry.png)
+
+#### Low Stock Report
+> Quickly spot items that need restocking before they run out.
+
+![Low Stock Report](assets/assets/report_lowStock.png)
+
+#### Stock Movement Report
+> Detailed log of every stock-in and stock-out transaction.
+
+![Movement Report](assets/assets/report_movement.png)
 
 ---
 
