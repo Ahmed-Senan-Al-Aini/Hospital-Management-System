@@ -174,7 +174,7 @@ Hospital-Management-System/
 #### Medicine Alerts
 > Instant notifications for low-stock and expiry warnings.
 
-![Medicine Alerts](assets/assets/medicine_alrets.png)
+![Medicine Alerts](assets/assets/medicine_alerts.png)
 
 #### Pharmacy Queue
 > Manage the dispensing queue in real time.
