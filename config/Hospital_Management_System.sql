@@ -286,6 +286,7 @@ INSERT INTO `role_permissions` (`role_id`, `permission_id`) VALUES
 (2, 3),
 (2, 4),
 (2, 5),
+(2,6),
 (2, 9),
 (3, 2),
 (3, 3),
