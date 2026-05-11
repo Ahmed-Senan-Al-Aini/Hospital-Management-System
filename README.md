@@ -256,7 +256,7 @@ Distributed under the MIT License. See LICENSE file for more information.
 📧 Contact
 
 Ahmed Senan Al-Aini
-GitHub: @Ahmed-Senan-Al-Aini
-Project Link: https://github.com/Ahmed-Senan-Al-Aini/Hospital-Management-System
+GitHub: @Ahmed-Al-Aini
+Project Link: https://github.com/Ahmed-Al-Aini/Hospital-Management-System
 
 ---
